@@ -1,0 +1,18 @@
+{
+  "name": "springangular",
+  "version": "1.0.0",
+  "scripts": {
+    "heroku-postbuild": "cd frontend && npm run build --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielschmitz/springangular.git"
+  },
+  "keywords": [],
+  "author": "Daniel Schmitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielschmitz/springangular/issues"
+  },
+  "homepage": "https://github.com/danielschmitz/springangular#readme"
+}
