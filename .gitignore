@@ -1,8 +1,13 @@
+
+
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/backend/main/**/build/
 !**/backend/test/**/build/
+backend/main/resources/public
+
 
 ### STS ###
 .apt_generated
